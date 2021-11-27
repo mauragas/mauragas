@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @mauragas
-- 👀 I’m interested in .NET / C#, MAUI with [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor), Azure cloud and Linux.
+- 👀 I’m interested in:
+  - .NET / C#, [MAUI](https://docs.microsoft.com/en-us/dotnet/maui/) with / and [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+  - [Azure cloud](https://azure.microsoft.com/en-us/overview/what-is-azure/)
+  - Linux operating systems (eg. [Ubuntu](https://ubuntu.com/), [Fedora](https://getfedora.org/)) 
+  - Clean code and architecture
+  - Continuous delivery / integration
+  - Agile and overall best software engineering practices
 - 🌱 I’m currently learning software engineering on Azure cloud and Blazor.
 - 💞️ I’m looking to collaborate on open source projects using .NET / C# / Blazor.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mauragas).
